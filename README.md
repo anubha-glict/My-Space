@@ -1,4 +1,4 @@
-This is my personal website created as part of the StarDance project.
+This is my personal website created as part of the StarDance Challenege Mission project.
 It introduces who I am, showcases my achievements, side quests, and provides links to my social profiles. The website is designed to be simple, responsive, and easy to navigate.
 The Coding Languages used are;
 - HTML5
