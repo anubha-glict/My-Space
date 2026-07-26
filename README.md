@@ -18,6 +18,6 @@ AI (ChatGPT) was used for;
 - Improving code structure and styling
 
 All implementation, testing, customization, and final decisions were completed by me.
-License;
 
+License;
 This project is for educational purposes.
